@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(224, 220, 220);
+}
+
+.img{
+    height: 120px;
+    width: 120px;
+
+}
+.part1{
+    display: flex;
+}
+.part1 div{
+margin: 0px 65px;
+
+    
+}
+    .part2{
+        display: flex;
+    }
+.part2 div{
+    margin: 0px 65px;
+   
+        
+    }
+    .part3 {
+        display: flex;
+    }
+    .part3 div{
+        margin: 0px 65px;
+        
+            
+        }
+        .part4{
+            display: flex;
+        }
+        .part4 div{
+            margin:0px 65px;
+            
+                
+            }
+
+            .part5{
+                display: flex;
+            }
+            .part5 div{
+                margin:0px 65px;
+                
+            }
+            h1{
+                text-align: center;
+                background-color: green;
+                padding: 8PX;
+            }
+            

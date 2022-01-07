@@ -1,6 +1,10 @@
 body{
     background-color: rgb(224, 220, 220);
 }
+.navbar-text{
+    font-size:35px;
+   margin: 0 50px;
+}
 
 .img{
     height: 120px;
@@ -56,24 +60,24 @@ margin: 0px 65px;
             @media (max-width:500px){
                 
                 .part1 div {
-                    margin: 0px 5px;
+                    margin: 0px 3px;
                     }
                     .part2 div {
-                        margin: 0px 5px;
+                        margin: 0px 3px;
                         }
                         .part3 div {
-                            margin: 0px 5px;
+                            margin: 0px 3px;
                             }
                             .part4 div {
-                                margin: 0px 5px;
+                                margin: 0px 3px;
                                 }
                                 .part5 div {
-                                    margin: 0px 5px;
+                                    margin: 0px 3px;
                                     }
 
                     .img{
-                        height: 70px;
-                        width: 70px;
+                        height: 60px;
+                        width: 60px;
                     }
                     h3 {
                         font-size: small;

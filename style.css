@@ -53,7 +53,8 @@ margin: 0px 65px;
                 margin: 10px 200px;
             }
 
-            @media (max-width:700px){
+            @media (max-width:500px){
+                
                 .part1 div {
                     margin: 0px 5px;
                     }
